@@ -37,7 +37,7 @@
               </tr>
               <tr>
                 <td>2024-Present</td>
-                <td>HR Student of Mahatma Gandhi Kashi Vidyapeeth </td>
+                <td> Student of Mahatma Gandhi Kashi Vidyapeeth </td>
           </tbody>
         </table>
         <hr>
@@ -46,21 +46,21 @@
            <tr>
              <td><Table border="3">
                  <tr>
-                   <td>Recruitment</td>
+                   <td>C++</td>
                    <td>★★★☆☆</td>
                </tr>
                <tr>
-                   <td>Payroll</td>
+                   <td>Python</td>
                    <td>★★★★★</td>
                </tr>
                </table></td>
                <td><Table border="3">
                        <tr>
-                         <td>Recruitment</td>
+                         <td>C++</td>
                          <td>★★★☆☆</td>
                      </tr>
                      <tr>
-                         <td>Payroll</td>
+                         <td>python</td>
                          <td>★★★★★</td>
                      </tr>
                      </table></td>
